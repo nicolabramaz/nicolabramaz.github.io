@@ -43,7 +43,7 @@ a:hover {
     border-bottom-color: #31313A;
 }
 
-#home p, article a, section .icon i, #career i, .date.active {
+#home p, article a, article#project .return a, section .icon i, #career i, .date.active {
     color: #40E0D0;
 }
 
